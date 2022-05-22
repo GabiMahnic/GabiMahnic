@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é **@GabiMahnic**
-- 🤙 Meu e-mail de contato é gabrielen.pereira@escola.pr.gov.br
+- 🤙 Meu e-mail de contato é [email](gabrielen.pereira@escola.pr.gov.br)
 - 👀 Eu estou interessada em aprender novas linguagens de programação
 - 🌱 Estou learning a programar na linguagem JavaScript
 
